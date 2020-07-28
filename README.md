@@ -1,2 +1,2 @@
 # WindowsActivator
-</b>Password: </b> 123
+<h2>Password: </h2> 123
